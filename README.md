@@ -7,10 +7,10 @@ My high Information Gain may Inspire your Decision Tree!
 - 🌱 Exploring Application and Web Development.
 - 👯 Seeking collaboration on Application & Web Development projects.
 - 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries.
-- 📃 Know about my experiences - [Resume](#) <!-- Add your resume link here -->
+- 📃 Know about my experiences - [Resume](#) 
 - 📫 Reach me at:
   - [Email](mailto:pranjalchaubey001@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/pranjal-chaubey-818159129/)
+  - [LinkedIn](https://www.linkedin.com/in/pranjal190103/)
   - [Instagram](#) <!-- Add your Instagram link here if applicable -->
   - [Medium](#) <!-- Add your Medium link here if applicable -->
 
