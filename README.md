@@ -43,12 +43,12 @@ My high Information Gain may Inspire your Decision Tree!
   </tr>
   <tr>
     <td>
-      <a href="#">
+      <a href="https://medium.com/@pranjalchaubey001">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
       </a>
     </td>
     <td>
-      [<!-- Add your Medium username here -->](https://medium.com/@pranjalchaubey001)
+      [@pranjalchaubey001]
     </td>
   </tr>
 </table>
