@@ -7,7 +7,7 @@ My high Information Gain may Inspire your Decision Tree!
 - 🌱 Exploring Application and Web Development.
 - 👯 Seeking collaboration on Application & Web Development projects.
 - 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries.
-- 📃 Know about my experiences - [Resume]([https://drive.google.com/file/d/1fgxUSlYCIS8lXjN-eep1-8Pn67kA49B0/view?usp=sharing](https://drive.google.com/file/d/1fgxUSlYCIS8lXjN-eep1-8Pn67kA49B0/view?usp=sharing)) 
+- 📃 Know about my experiences - [Resume](https://drive.google.com/file/d/1fgxUSlYCIS8lXjN-eep1-8Pn67kA49B0/view?usp=sharing) 
 
 ## Reach me at:
 <p align="center">
