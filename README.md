@@ -8,12 +8,51 @@ My high Information Gain may Inspire your Decision Tree!
 - 👯 Seeking collaboration on Application & Web Development projects.
 - 💬 Ask me about ReactJs, Django, Databases, Deployment, or any tech-related queries.
 - 📃 Know about my experiences - [Resume](https://drive.google.com/file/d/1fgxUSlYCIS8lXjN-eep1-8Pn67kA49B0/view?usp=sharing) 
-- 📫 Reach me at:
-  - ## Reach me at:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalchaubey001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-chaubey-818159129/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) <!-- Add your Instagram link here -->
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#) <!-- Add your Medium link here -->
+## Reach me at:
+
+<table>
+  <tr>
+    <td>
+      <a href="mailto:pranjalchaubey001@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+    </td>
+    <td>
+      pranjalchaubey001@gmail.com
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/pranjal-chaubey-818159129/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      pranjal-chaubey-818159129
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      </a>
+    </td>
+    <td>
+      <!-- Add your Instagram username here -->
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+      </a>
+    </td>
+    <td>
+      <!-- Add your Medium username here -->
+    </td>
+  </tr>
+</table>
+
 
 ## ⚡ GitHub Stats
 
