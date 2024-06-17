@@ -48,7 +48,7 @@ My high Information Gain may Inspire your Decision Tree!
       </a>
     </td>
     <td>
-      <!-- Add your Medium username here -->
+      [<!-- Add your Medium username here -->](https://medium.com/@pranjalchaubey001)
     </td>
   </tr>
 </table>
